@@ -21,5 +21,4 @@ The two projects are deliberately complementary. The MLP makes the underlying li
 ```python
 numpy
 matplotlib
-scikit-learn
 ```
